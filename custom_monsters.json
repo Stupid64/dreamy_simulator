@@ -1,0 +1,11 @@
+[
+  {
+    "name": "1",
+    "type": "自定义",
+    "attack": 6000,
+    "defense": 800,
+    "hp": 3000,
+    "agility": 600,
+    "defend_chance": 0.2
+  }
+]
